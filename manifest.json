@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Kindle-like Text-Only Webpage",
+  "version": "1.2",
+  "description": "Displays webpage text in a Kindle-like format with sepia background and wide margins",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_title": "Toggle Kindle-like Text View"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
