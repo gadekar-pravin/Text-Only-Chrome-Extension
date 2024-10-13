@@ -3,11 +3,21 @@
   "name": "Kindle-like Text-Only Webpage",
   "version": "1.2",
   "description": "Displays webpage text in a Kindle-like format with sepia background and wide margins",
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
   "permissions": [
     "activeTab"
   ],
   "browser_action": {
-    "default_title": "Toggle Kindle-like Text View"
+    "default_title": "Toggle Kindle-like Text View",
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
   },
   "background": {
     "scripts": ["background.js"],
