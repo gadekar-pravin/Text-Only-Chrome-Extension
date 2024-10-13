@@ -5,7 +5,7 @@
 This Chrome extension transforms any webpage into a Kindle-like reading experience. It strips away all formatting and images, leaving only the text content displayed in a clean, easy-to-read format with a sepia background and wide margins.
 
 ## Demo
- [Watch the demo video](./demo.mp4)
+[Watch the demo video](https://youtu.be/q1wcl9tdwJE)
 
 ## Features
 
